@@ -1,0 +1,11 @@
+{
+  "name": "mateyco",
+  "version": "1.0.0",
+  "description": "Collaborative canvas",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Pawel Kuncicki",
+  "license": "ISC"
+}
